@@ -1,0 +1,15 @@
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.exe
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.deps.json
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.runtimeconfig.json
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.dll
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.pdb
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfo.cs
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.dll
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\obj\Debug\net6.0\refint\CabInvoiceGenerator.dll
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.pdb
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.genruntimeconfig.cache
+C:\Users\ravir\source\Assignment\CabInvoiceGenerator\obj\Debug\net6.0\ref\CabInvoiceGenerator.dll
